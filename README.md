@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bulut Yılmaz</h1>
-- 🌱 I’m currently learning # **Blender,Photoshop and Blockbench**
+# <h1 align="center">Hi 👋, I'm Bulut Yılmaz</h1>
+## - 🌱 I’m currently learning  **Blender,Photoshop and Blockbench**
 
-- 📫 How to reach me **yilmazbulutm@gmail.com**
+## - 📫 How to reach me **yilmazbulutm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
