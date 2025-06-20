@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bulut Yılmaz</h1>
-- 🌱 I’m currently learning **Blender,Photoshop and Blockbench**
+- 🌱 I’m currently learning # **Blender,Photoshop and Blockbench**
 
 - 📫 How to reach me **yilmazbulutm@gmail.com**
 
